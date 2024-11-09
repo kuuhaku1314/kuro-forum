@@ -1,0 +1,5 @@
+[verity_registration_email_title]
+cn = '欢迎{{username}}注册Kuro Forum'
+
+[verity_registration_email_content]
+cn = '<h1>请点击以下链接校验你的邮箱地址</h1><a href="{{url}}">click here</a>'

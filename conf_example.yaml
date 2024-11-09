@@ -1,0 +1,14 @@
+http_web_addr: "127.0.0.1:8080"
+database:
+  init_sql: "init_kuro_forum_db.sql"
+  url: "kuro-forum.db"
+user:
+  token:
+    salt: "zkSs#dFWAM19AWwDz!waGAmWQa"
+    jwt:
+      secret: "VPw#***aWW1dADsd291rwe21acADsaQd"
+email:
+  smtp: "smtp.qq.com"
+  address: "xxx@foxmail.com"
+  username: "xxx@foxmail.com"
+  password: "xxx"
